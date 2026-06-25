@@ -1,0 +1,6 @@
+City,Temperature (°C),Humidity (%),Wind Speed (km/h),Pressure,Visibility,Condition
+Chennai,37,51,8,1004,6,Partly cloudy
+Mumbai,31,66,8,1006,4,Haze
+Delhi,37,37,9,1003,5,"Haze, Rain With Thunderstorm"
+London,29,55,20,1018,10,Sunny
+New York,19,63,4,1018,16,Clear 

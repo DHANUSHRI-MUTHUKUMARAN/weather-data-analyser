@@ -1,0 +1,6 @@
+City,Temperature (°C),Humidity (%),Pressure (hPa),Wind Speed (m/s),Condition
+Chennai,36.18,37,1004,2.06,Clouds
+Mumbai,28.83,73,1006,3.84,Clouds
+Delhi,41.54,19,999,1.9,Clear
+London,27.01,63,1017,5.45,Clear
+New York,16.13,79,1017,1.0,Clear
