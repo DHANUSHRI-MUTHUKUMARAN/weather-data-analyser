@@ -20,3 +20,7 @@ __pycache__/
 # Generated JSON files (optional)
 data/raw/json/*.json
 data/raw/forecast_json/*.json
+
+# Machine Learning Models
+models/
+*.pkl
